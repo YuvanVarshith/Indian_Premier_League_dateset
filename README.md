@@ -106,8 +106,6 @@ Below are some insightful questions I explored using pandas and matplotlib/seabo
 **📂 notebooks/**
 - `ipl_eda_analysis.ipynb` ← Answers all above questions
 
-**📂 images/**
-- Charts and graphs
 
 📄 `README.md`  
 📄 `requirements.txt`
